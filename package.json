@@ -1,0 +1,23 @@
+{
+  "name": "bitmart-api",
+  "version": "1.0.0",
+  "description": "Interact with Bitmart programmatically.",
+  "keywords": [
+    "bitmart",
+    "api",
+    "exchange",
+    "crypto",
+    "coin",
+    "trading"
+  ],
+  "repository": "https://github.com/felixbrucker/bitmart-api.git",
+  "bugs": "https://github.com/felixbrucker/bitmart-api/issues",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "qs": "^6.6.0"
+  },
+  "engines": {
+    "node": "^10.0.0"
+  }
+}

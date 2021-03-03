@@ -1,6 +1,6 @@
 {
   "name": "bitmart-api",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Interact with Bitmart programmatically.",
   "keywords": [
     "bitmart",
@@ -15,9 +15,9 @@
   "license": "GPL-3.0",
   "dependencies": {
     "axios": "0.21.1",
-    "qs": "^6.9.1"
+    "qs": "^6.9.6"
   },
   "engines": {
-    "node": "^12.0.0"
+    "node": ">= 12"
   }
 }
